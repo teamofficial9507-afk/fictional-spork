@@ -1,3 +1,4 @@
+THIS SCRIPT IS STILL BEING TESTED 
 Features Shops:
 
 Open 06:00 ? Close 22:00
